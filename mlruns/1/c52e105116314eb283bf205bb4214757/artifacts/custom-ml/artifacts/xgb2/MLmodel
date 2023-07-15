@@ -1,0 +1,14 @@
+flavors:
+  python_function:
+    data: model.xgb
+    env: conda.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.8.8
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    xgb_version: 1.5.2
+mlflow_version: 1.27.0
+model_uuid: 499f6390011f47ddaa9ae142ddc6e251
+utc_time_created: '2023-07-10 14:23:49.840497'

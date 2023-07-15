@@ -1,0 +1,15 @@
+artifact_uri: /Users/luanhenriquecosta/custom-ml-mlflow/mlruns/1/c52e105116314eb283bf205bb4214757/artifacts
+end_time: 1688999034737
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: c52e105116314eb283bf205bb4214757
+run_uuid: c52e105116314eb283bf205bb4214757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688999026928
+status: 3
+tags: []
+user_id: luanhenriquecosta

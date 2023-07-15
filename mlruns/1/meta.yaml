@@ -1,0 +1,4 @@
+artifact_location: /Users/luanhenriquecosta/custom-ml-mlflow/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: custom-ml
